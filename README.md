@@ -1,7 +1,6 @@
-# Leiden University, Computation Archaeology Research group # 
-
 # Detecting Archaeological artefacts in video stream data# 
 Project developed as part of the Introduction to Machine Learning and Artificial Intelligence in Archaeology (MLA) course
+Leiden University, Computation Archaeology Research group
 
 # Basic Information # 
 This project explores the use of YOLOv8n, a lightweight object detection model, to identify ceramic sherds in frames extracted from archaeological video recordings.
