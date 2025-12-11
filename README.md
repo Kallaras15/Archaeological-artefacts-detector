@@ -1,4 +1,4 @@
-# Detecting Archaeological artefacts in video stream data#
+# Detecting Archaeological artefacts in video stream data
 ### 28 March 2025  
 ### Leiden University – Computation Archaeology Research Group
 
