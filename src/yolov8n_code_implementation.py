@@ -2,7 +2,6 @@
 #                       AI & ML in archaeology
 #                            2024 - 2025 
 # =============================================================================
-# Student Name: Konstantinos Kallaras (s4372603)
 # Email: kallaras.dinos@gmail.com
 # =============================================================================
 #
@@ -227,5 +226,6 @@ save_results=True
 
 # Calling the function
 yolov8n_pred_model (model_path, test_images_path, confidence_threshold, save_results)
+
 
 
